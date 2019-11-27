@@ -1,33 +1,32 @@
 <template>
-  <section
-    class="resume-section p-3 p-lg-5 d-flex align-items-center"
-    id="over"
-  >
+  <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="over">
     <div class="w-100">
-      <span>  <g-image
-          alt="Image of Loke"
+      <span class="clearfix">
+        <g-image
+          alt="Image of Leydi"
           src="../assets/images/profile.png"
-          class="img-fluid img-profile rounded  mx-auto mb-2 float-right"
+          class="img-fluid img-profile rounded mx-auto mb-2 float-left d-block d-lg-none"
           style="filter: grayscale(1);"
         />
+
+        <h1 class="mb-0">
+          Leydi
+          <span class="text-primary">van den Braken</span>
+        </h1>
+        <div class="subheading mb-5">
+          Hooglanderveen ·
+          <a href="tel:+31612960436">(06) 5757 0 554</a> ·
+          <a href="mailto:leydi@vandenbraken.com">leydi@vandenbraken.com</a>
+        </div>
+        </span>
+        <p class="lead mb-5 clearfix">
+          Enthousiaste duizendpoot. Ik ben sterk in het snel inzichtelijk krijgen
+          van complexe vraagstukken. Ervaren in data inventarisatie en analyse,
+          zowel in beschrijvende als voorspellende modellen. Als team lead zie ik
+          mezelf als meewerkend voorvrouw. Projecten en referenties opvraagbaar.
+        </p>
       
-      <h1 class="mb-0">
-        Leydi
-        <span class="text-primary">van den Braken</span>
-      </h1>
-      <div class="subheading mb-5">
-        Hooglanderveen · 
-        <a href="tel:+31612960436">(06) 5757 0 554</a> ·
-        <a href="mailto:leydi@vandenbraken.com">leydi@vandenbraken.com</a>
-      </div>
-      <p class="lead mb-5">
-        Enthousiaste duizendpoot. Ik ben sterk in het snel inzichtelijk krijgen
-        van complexe vraagstukken. Ervaren in data inventarisatie en analyse,
-        zowel in beschrijvende als voorspellende modellen. Als team lead zie ik
-        mezelf als meewerkend voorvrouw. Projecten en referenties opvraagbaar.
-      </p>
-      </span>
-      
+
       <div class="social-icons">
         <a
           href="https://linkedin.com/in/leydivandenbraken"
@@ -36,25 +35,13 @@
         >
           <font-awesome :icon="['fab', 'linkedin']" />
         </a>
-        <a
-          href="https://github.com/RedRock89"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+        <a href="https://github.com/RedRock89" target="_blank" rel="noopener noreferrer">
           <font-awesome :icon="['fab', 'github']" />
         </a>
-        <a
-          href="https://twitter.com/leydijohanavdb"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+        <a href="https://twitter.com/leydijohanavdb" target="_blank" rel="noopener noreferrer">
           <font-awesome :icon="['fab', 'twitter']" />
         </a>
-        <a
-          href="https://www.facebook.com/leydivdb"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+        <a href="https://www.facebook.com/leydivdb" target="_blank" rel="noopener noreferrer">
           <font-awesome :icon="['fab', 'facebook']" />
         </a>
         <a href="https://leydi.vandenbraken.com" target="_blank" rel="noopener noreferrer">

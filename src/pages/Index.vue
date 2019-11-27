@@ -1,16 +1,16 @@
 <template>
   <Layout>
     <div class="container-fluid p-0">
-      <Over/>
-      <hr class="m-0">
-      <Ervaring/>
-      <hr class="m-0">
-      <Educatie/>
-      <hr class="m-0">
-      <Vaardigheden/>
-      <hr class="m-0">
-      <Interesses/>
-      <hr>
+      <Over />
+      <hr class="m-0" />
+      <Ervaring />
+      <hr class="m-0" />
+      <Educatie />
+      <hr class="m-0" />
+      <Vaardigheden />
+      <hr class="m-0" />
+      <Interesses />
+      <hr />
     </div>
   </Layout>
 </template>

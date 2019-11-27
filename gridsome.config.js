@@ -1,7 +1,7 @@
 module.exports = {
-  siteName: 'Leydi van den Braken',
-  siteDescription: 'Leydi van den Braken\'s resume.',
-  siteUrl: 'https://leydi.vandenbraken.com',
+  siteName: "Leydi van den Braken",
+  siteDescription: "Leydi van den Braken's resume.",
+  siteUrl: "https://leydi.vandenbraken.com",
   plugins: [
     // {
     //   use: '@gridsome/plugin-google-analytics',
@@ -10,7 +10,7 @@ module.exports = {
     //   }
     // },
     {
-      use: '@gridsome/plugin-sitemap',
+      use: "@gridsome/plugin-sitemap",
       options: {
         cacheTime: 600000
       }
@@ -21,4 +21,4 @@ module.exports = {
       scss: {}
     }
   }
-}
+};

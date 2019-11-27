@@ -1,20 +1,13 @@
 <template>
-  <section
-    class="resume-section p-3 p-lg-5 d-flex justify-content-center"
-    id="ervaring"
-  >
+  <section class="resume-section p-3 p-lg-5 d-flex justify-content-center" id="ervaring">
     <div class="w-100">
       <h2 class="mb-5">Ervaring</h2>
 
-      <div
-        class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5"
-      >
+      <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
         <div class="resume-content">
           <h3 class="mb-0">Business Information Consultant</h3>
           <div class="subheading mb-3">Stater</div>
-          <p>
-            Multidisciplinair agile team, bezigheden:
-          </p>
+          <p>Multidisciplinair agile team, bezigheden:</p>
           <ul>
             <li>informatie analyse,</li>
             <li>functionele specificaties</li>
@@ -26,15 +19,11 @@
         </div>
       </div>
 
-      <div
-        class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5"
-      >
+      <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
         <div class="resume-content">
           <h3 class="mb-0">Programma manager</h3>
           <div class="subheading mb-3">Open State Foundation</div>
-          <p>
-            Onderwijs, arbeidsmarkt en zorg
-          </p>
+          <p>Onderwijs, arbeidsmarkt en zorg</p>
           <ul>
             <li>Analyse en visualisatie van data (o.a. Power BI)</li>
             <li>
@@ -57,9 +46,7 @@
         </div>
       </div>
 
-      <div
-        class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5"
-      >
+      <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
         <div class="resume-content">
           <h3 class="mb-0">PhD onderzoeker</h3>
           <div class="subheading mb-3">Universiteit Utrecht</div>
@@ -73,9 +60,7 @@
         </div>
       </div>
 
-      <div
-        class="resume-item d-flex flex-column flex-md-row justify-content-between"
-      >
+      <div class="resume-item d-flex flex-column flex-md-row justify-content-between">
         <div class="resume-content">
           <h3 class="mb-0">Consultant / Oprichter</h3>
           <div class="subheading mb-3">Social Profit Consultants</div>
