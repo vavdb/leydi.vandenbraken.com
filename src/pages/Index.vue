@@ -10,8 +10,7 @@
       <Vaardigheden/>
       <hr class="m-0">
       <Interesses/>
-      <hr class="m-0">
-      <Awards/>
+      <hr>
     </div>
   </Layout>
 </template>

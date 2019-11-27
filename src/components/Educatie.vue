@@ -10,9 +10,9 @@
         class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5"
       >
         <div class="resume-content">
-          <h3 class="mb-0">Utrecht University</h3>
+          <h3 class="mb-0">Bestuurs- &amp; Organisatiewetenschappen</h3>
           <div class="subheading mb-3">
-            Bestuurs- &amp; Organisatiewetenschappen
+            Utrecht University
           </div>
           <div>Research Master met Honourstraject</div>
           <p>
@@ -30,12 +30,10 @@
         class="resume-item d-flex flex-column flex-md-row justify-content-between"
       >
         <div class="resume-content">
-          <h3 class="mb-0">Utrecht University</h3>
-          <div class="subheading mb-3">
-            Arbeid, Zorg &amp; Welzijn: beleid &amp; interventie
-          </div>
+          <h3 class="mb-0">Arbeid, Zorg &amp; Welzijn: beleid &amp; interventie</h3>
+          <div class="subheading mb-3">Utrecht University</div>
           <p>Onderzoek naar Social Impact Bonds, interviews</p>
-          <p>Semester UC Berkeley, CA, USA in Social Welfare</p>
+          <p>Semester UC Berkeley, CA, USA in Social Welfare</p><br/>
         </div>
         <div class="resume-date text-md-right">
           <span class="text-primary">sep 2013 - jul 2014</span>
@@ -46,8 +44,8 @@
         class="resume-item d-flex flex-column flex-md-row justify-content-between"
       >
         <div class="resume-content">
-          <h3 class="mb-0">Utrecht University</h3>
-          <div class="subheading mb-3">Culturele Antropologie</div>
+          <h3 class="mb-0">Culturele Antropologie</h3>
+          <div class="subheading mb-3">Utrecht University</div>
           <p>
             Onderzoek naar maatschappelijke participatie door sport (o.a. WMO),
             gemeente Utrecht, interviews

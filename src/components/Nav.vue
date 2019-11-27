@@ -1,7 +1,7 @@
 <template>
   <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
-    <div v-on:click.prevent="$scrollTo('#about')" class="navbar-brand">
-      <span class="d-block d-lg-none">Loke Carlsson</span>
+    <div v-on:click.prevent="$scrollTo('#over')" class="navbar-brand">
+      <span class="d-block d-lg-none">Leydi van den Braken</span>
       <span class="d-none d-lg-block">
         <g-image
           alt="Image of Loke"
