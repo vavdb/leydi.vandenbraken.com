@@ -2,8 +2,26 @@
   <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="vaardigheden">
     <div class="w-100">
       <h2 class="mb-5">Vaardigheden</h2>
-
-      <div class="subheading mb-3">Programming Languages &amp; Tools</div>
+        <ul>
+          <li>Office</li>
+          <li>BI Tools
+            <ul>
+              <li>Power BI</li>
+              <li>Qlikview</li>
+            </ul>
+          </li>
+          <li>Scrum &amp; Agile</li>
+          <li>Presenteren</li>
+          <li>Product owner</li>
+          <li>Kwantitatie analyse
+            <ul>
+              <li>Stata</li>
+              <li>SPSS</li>
+              <li>R</li>
+            </ul>
+          </li>
+        </ul>
+      <!-- <div class="subheading mb-3">Programming Languages &amp; Tools</div>
       <ul class="list-inline dev-icons">
         <li class="list-inline-item">
           <font-awesome :icon="['fab', 'html5']"/>
@@ -63,7 +81,7 @@
         <li>
           <font-awesome class="fa-li" :icon="['fas', 'check']"/>Design principles and UX
         </li>
-      </ul>
+      </ul> -->
     </div>
   </section>
 </template>
