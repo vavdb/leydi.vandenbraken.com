@@ -20,7 +20,7 @@
     "gridsome": "^0.7.11",
     "jquery": "^3.4.1",
     "node-sass": "^4.13.0",
-    "npm": "^6.13.1",
+    "npm": "^6.13.4",
     "sass-loader": "^7.1.0",
     "snyk": "^1.290.1",
     "vue-scrollto": "^2.15.0"
