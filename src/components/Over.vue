@@ -22,7 +22,7 @@
         <p class="lead mb-5 clearfix">
           Enthousiaste duizendpoot. Ik ben sterk in het snel inzichtelijk krijgen
           van complexe vraagstukken. Ervaren in data inventarisatie en analyse,
-          zowel in beschrijvende als voorspellende modellen. Als team lead zie ik
+          zowel in beschrijvende als voorspellende modellen. Verbinder tussen de business &amp; IT, generalist. Als team lead zie ik
           mezelf als meewerkend voorvrouw. Projecten en referenties opvraagbaar.
         </p>
       

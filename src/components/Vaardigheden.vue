@@ -3,23 +3,69 @@
     <div class="w-100">
       <h2 class="mb-5">Vaardigheden</h2>
         <ul>
-          <li>Office</li>
-          <li>BI Tools
+          <li>MS Office</li>
+
+          <li>BI Tools</li>
             <ul>
               <li>Power BI</li>
               <li>Qlikview</li>
+              <li>SAP Lumira</li>
+              <li>SAP BO webi</li>
+              <li>Tableau</li>
+              <li>Excel</li>
             </ul>
-          </li>
-          <li>Scrum &amp; Agile</li>
-          <li>Presenteren</li>
-          <li>Product owner</li>
-          <li>Kwantitatie analyse
+
+          <li>Programmeertalen</li>
+            <ul>
+              <li>SQL</li>
+              <li>Python</li>
+              <li>C#</li>
+              <li>PowerShell</li>
+              <li>CSS</li>
+              <li>HTML</li>
+              <li>wordpress</li>
+            </ul>
+
+          <li>ETL tools</li>
+            <ul>
+              <li>SSIS</li>
+            </ul>
+
+          <li>Cloud</li>
+            <ul>
+              <li>Azure</li>
+                <li>Event Hubs</li>
+                <li>Stream Analytics</li>
+            </ul>
+
+          <li>Kwantitatieve analyse</li>
             <ul>
               <li>Stata</li>
               <li>SPSS</li>
+              <li>Python</li>
               <li>R</li>
+              <li>Excel</li>
             </ul>
-          </li>
+
+          <li>Kwalitatieve analyse</li>
+            <ul>
+              <li>Nvivo</li>
+              <li>MaxQDA</li>
+              <li>fs/QCA</li>
+            </ul>
+
+          <li>projectmanagement</li>
+            <ul>
+              <li>Jira</li>
+              <li>Confluence</li>
+              <li>Trello</li>
+              <li>Asana</li>
+              <li>Slack</li>
+            </ul>
+
+          <li>Scrum &amp; Agile</li>
+          <li>Presenteren</li>
+          <li>Product owner</li>
         </ul>
       <!-- <div class="subheading mb-3">Programming Languages &amp; Tools</div>
       <ul class="list-inline dev-icons">

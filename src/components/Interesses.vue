@@ -7,6 +7,7 @@
         <li>Lid Raad van Toezicht Meerkring</li>
         <li>Penningmeester scouting Hiawatha</li>
         <li>Hardlopen</li>
+        <li>Bootcampen</li>
         <li>Lezen</li>
         <li>Politiek</li>
         <li>Home automation</li>
