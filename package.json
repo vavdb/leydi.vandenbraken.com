@@ -18,7 +18,7 @@
     "bootstrap": "^4.4.1",
     "bootstrap-vue": "^2.0.0-rc.18",
     "gridsome": "^0.7.11",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "node-sass": "^4.13.1",
     "npm": "^6.13.4",
     "sass-loader": "^7.1.0",
