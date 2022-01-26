@@ -17,7 +17,7 @@
     "@gridsome/transformer-remark": "^0.2.1",
     "bootstrap": "^4.4.1",
     "bootstrap-vue": "^2.0.0-rc.18",
-    "gridsome": "^0.7.11",
+    "gridsome": "^0.7.15",
     "jquery": "^3.4.1",
     "node-sass": "^4.13.1",
     "npm": "^6.13.4",
