@@ -4,7 +4,9 @@
   "scripts": {
     "build": "gridsome build",
     "dev": "gridsome develop",
-    "explore": "gridsome explore"
+    "explore": "gridsome explore",
+    "prepare": "npm run snyk-protect",
+    "snyk-protect": "snyk-protect"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.18",
@@ -14,15 +16,16 @@
     "@gridsome/plugin-google-analytics": "^0.1.0",
     "@gridsome/plugin-sitemap": "^0.1.1",
     "@gridsome/source-filesystem": "^0.6.2",
-    "@gridsome/transformer-remark": "^0.2.1",
+    "@gridsome/transformer-remark": "^0.6.2",
     "bootstrap": "^4.4.1",
     "bootstrap-vue": "^2.0.0-rc.18",
     "gridsome": "^0.7.11",
-    "jquery": "^3.4.1",
-    "node-sass": "^4.13.1",
-    "npm": "^6.13.4",
+    "jquery": "^3.5.0",
+    "node-sass": "^7.0.2",
+    "npm": "^7.21.0",
     "sass-loader": "^7.1.0",
-    "snyk": "^1.290.1",
-    "vue-scrollto": "^2.15.0"
-  }
+    "vue-scrollto": "^2.15.0",
+    "@snyk/protect": "latest"
+  },
+  "snyk": true
 }
